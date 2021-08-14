@@ -2,7 +2,7 @@
 
 Projeto de compilador desenvolvido na disciplina de compiladores, ministrada pelo professor Isidro.
 
-Integrantes:
+Integrantes:<br>
 Igor Meirelles Lotaif Oliveira - RA: 11032416 <br>
 Rafael da Silva Tomaz - RA: 11041116
 
