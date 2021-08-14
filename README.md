@@ -3,7 +3,7 @@
 Projeto de compilador desenvolvido na disciplina de compiladores, ministrada pelo professor Isidro.
 
 Integrantes:
-Igor Meirelles Lotaif Oliveira - RA: 11032416
+Igor Meirelles Lotaif Oliveira - RA: 11032416 <br>
 Rafael da Silva Tomaz - RA: 11041116
 
 # Requisitos Obrigatórios e Extras Implementados
