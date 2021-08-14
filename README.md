@@ -6,7 +6,7 @@ Integrantes:
 Igor Meirelles Lotaif Oliveira - RA: 11032416
 Rafael da Silva Tomaz - RA: 11041116
 
-# Requisitos Obirgatórios e Extras Implementados
+# Requisitos Obrigatórios e Extras Implementados
 
 * Possuir 2 tipos de variáveis (pelo menos 1 deles String)
 * Possuir a instrução if-else
